@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-11-10T18:09:15+05:30",
+  "id": "android-app-icons",
+  "duration": 8,
+  "title": "Android App Icons",
+  "authors": "Harshal Bhakta",
+  "summary": "This is the summary for the article",
+  "source": "android-app-icons.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "android"
+  ],
+  "tags": [
+    "android"
+  ],
+  "feedback": "https://harshalbhakta.com",
+  "url": "android-app-icons"
+}

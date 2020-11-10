@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-11-10T17:50:17+05:30",
+  "id": "web-sample",
+  "duration": 0,
+  "title": "Web Sample",
+  "authors": "Harshal Bhakta",
+  "summary": "This is a sample web article",
+  "source": "web-sample.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "web"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://harshalbhakta.com",
+  "url": "web-sample"
+}
