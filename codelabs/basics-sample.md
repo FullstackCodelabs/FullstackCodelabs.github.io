@@ -1,7 +1,7 @@
 summary: This is the summary for the basics article
 id: basics-sample
 categories: Basics
-tags: ssh
+tags: basics
 status: Published
 authors: Harshal Bhakta
 Feedback Link: https://harshalbhakta.com
